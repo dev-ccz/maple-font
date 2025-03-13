@@ -12,3 +12,5 @@
 2. 解压
 3. 进入 `system/fonts`
 4. 提取 `MapleHand-Regular.ttf` / `MapleHand-Bold.ttf`
+
+![](https://github.com/subframe7536/maple-font/raw/chinese/img/%E6%89%8B%E6%9C%BA.jpg)
