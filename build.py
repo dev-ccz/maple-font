@@ -222,7 +222,7 @@ class FontConfig:
             "cv32": "ignore",
             "cv33": "ignore",
             "cv34": "ignore",
-            "cv35": "disable",
+            "cv35": "enable",
             "cv36": "ignore",
             "cv37": "ignore",
             "cv96": "ignore",
