@@ -51,6 +51,8 @@ build_config = {
         "cv03": Status.IGNORE,  # alt a
         "cv04": Status.IGNORE,  # alt @
         "zero": Status.IGNORE,  # alt 0
+        "cv35": Status.DISABLE,
+        
         # ======
     },
     # config for nerd font
